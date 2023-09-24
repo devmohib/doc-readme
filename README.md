@@ -1,7 +1,11 @@
 # README.md
-### Guide for readme.md file
----
-- use `---` for line break
-- [Index Link](#index-link)
-
-# Index Link
+- use `#name` for giving main heading.
+- uss `[name](#name)` to make a link for topic's heading.
+- use `## name` for giving topic's heading.
+- use `### name` for giving heading which dont have underline and have less font weight.
+- use `#### name` for giving heading which dont have underline and have less font weight.
+- use `---` for under-line.
+- use `  ` (double space for new line).
+- use `-```.....your code here.....```-`for give code to user.
+- use `![Profile Image](profile-image.jpg)` for add picture.
+- use this to add links `GitHub: [github.com/johndoe](https://github.com/johndoe)`
