@@ -1,4 +1,7 @@
 # README.md
+### Key Notes:
+- use `---` for Horizontal Rule.
+- use `  ` (double space for new line).
 ### Headers
 - use `#name` for giving main heading.
 - use `## name` for giving topic's heading.
@@ -49,21 +52,36 @@
 ```
 ### Code
 #### Inline Code:
-- use `\`.....your code here.....`\`for give code to user.
 ```
 `code here`
 ```
 #### Code Block:
-- use `\`.....your code here.....`\`for give code to user.
 ```
 ```python
 def hello_world():
     print("Hello, World!")
 ```\
 ```
-### Other Key Notes:
-- use `---` for under-line.
-- use `  ` (double space for new line).
+### CSS
+```
 
+## Quotes
 
+```markdown
+> This is a blockquote.
+```
+### Tables
+```
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Cell 1   | Cell 2   |
+```
+### Task Lists
+```
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
+```
+### Escaping Markdown Characters
+- If you want to display a character that's used for Markdown formatting, you can escape it using a backslash (`\`).
 
